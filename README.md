@@ -34,4 +34,4 @@
 >
 > The reason that global CSS can't be imported outside of pages/\_app.js is that global CSS affects all elements on the page.
 
-글로벌 CSS는 \_app.js에서만 import 하자!
+글로벌 CSS는 \_app.js에서만 import 하자!!!
